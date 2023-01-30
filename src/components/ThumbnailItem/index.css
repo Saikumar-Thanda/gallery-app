@@ -1,0 +1,10 @@
+/* Write your code here. */
+.button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: #ffffff;
+}
+.opacity {
+  opacity: 0.5;
+}
